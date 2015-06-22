@@ -1,0 +1,11 @@
+body{background-color: #949494}
+body{ text-align: center}
+ul{
+  background-position: 0px center;
+  text-align: left;
+  width: 600px;
+  margin: auto;
+  }
+  img{
+    border: 6px solid black;
+  }
